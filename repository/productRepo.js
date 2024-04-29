@@ -1,5 +1,3 @@
-
-
 const Product = require('../model/product')
 
 
@@ -38,5 +36,47 @@ module.exports.findAll = (where) => {
             .catch(error => {
                 reject(error);
             });
+    });
+};
+
+
+module.exports.delete = (where, data) => {
+    return new Promise((resolve, reject) => {
+        Product.deleteMany(where, data)
+            .then(result => {
+                resolve(result);
+            })
+            .catch(error => {
+                reject(error);
+            });
+    });
+};
+
+module.exports.count = (where, data) => {
+    return new Promise((resolve, reject) => {
+        Product.countDocuments(where, data)
+            .then(result => {
+                resolve(result);
+            })
+            .catch(error => {
+                reject(error);
+            });
+    });
+};
+
+module.exports.findGroupProductSameManufacture = () => {
+    return new Promise((resolve, reject) => {
+        Product.aggregate([
+            {
+                $group: {
+                    _id: "$mfd_id", // Group by the "mfd_id" field
+                    products: { $push: "$$ROOT" } // Retain all details of the documents in the "products" array
+                }
+            }
+        ]).then(result => {
+            resolve(result);
+        }).catch(error => {
+            reject(error); 
+        });
     });
 };

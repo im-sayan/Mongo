@@ -1,19 +1,15 @@
 const mongoose = require('mongoose');
 //const validator = require('validator');
 
-   const productSchema = new mongoose.Schema({
-            name: {
+   const manufactureSchema = new mongoose.Schema({
+            companyName: {
                 type : String,
             },
-            user_id: {
-                type: mongoose.Schema.ObjectId,
-                ref:'User'
+            unit_id: {
+                type: String,
+                //ref:'User'
             },
-            mfd_id:{
-                type: mongoose.Schema.ObjectId,
-                ref:'Manufacture'
-            },
-            price: {
+            department: {
                 type: String,
             },
             createAt: 
@@ -28,7 +24,7 @@ const mongoose = require('mongoose');
             },
         });
 
-const Product = mongoose.model('Product', productSchema);
+const Manufacture = mongoose.model('Manufacture', manufactureSchema);
 
 
-module.exports = Product;
+module.exports = Manufacture;

@@ -2,12 +2,12 @@ require("dotenv").config();
 const mongoose = require('mongoose');
 const ProductRepo = require('../repository/productRepo');
  
-exports.createProduct = async (req, res) => {
+module.exports.createProduct = async (req, res) => {
     try {
-        const userId = mongoose.Schema.ObjectId(req.body.user_id);
         let createData = {
             name: req.body.name,
-            user_id: userId,
+            user_id: req.body.user_id, to: "objectId",
+            mfd_id: req.body.mfd_id, to: "objectId",
             price: req.body.price,
         }
         console.log(createData,"createData");
@@ -21,10 +21,13 @@ exports.createProduct = async (req, res) => {
     }
 };
 
-exports.findProducts = async (req, res) => {
+module.exports.findProducts = async (req, res) => {
     try {
         // Assuming ProductRepo is your MongoDB collection
-        let findall = await ProductRepo.findAll({ user_id: { $in: ['662ca1c0683d5c520712ad35','662ca36e73e899584dbc0796'] } });
+        let Ids = req.body.id.map(i => i);
+        console.log(Ids,"loggggggggggg+6666666666");
+
+        let findall = await ProductRepo.findAll({ user_id: { $in: Ids} });
   
         return res.status(200).json({ message: 'Products found successfully', data: findall });
     } catch (error) {
@@ -34,7 +37,7 @@ exports.findProducts = async (req, res) => {
 };
 
 
-exports.findONeProduct = async (req, res) => {
+module.exports.findONeProduct = async (req, res) => {
     try {
         // Assuming ProductRepo is your MongoDB collection
         let findOne = await ProductRepo.findOne({});
@@ -43,5 +46,42 @@ exports.findONeProduct = async (req, res) => {
     } catch (error) {
         console.error('Error during product search:', error);
         return res.status(500).json({ message: 'Something went wrong' });
+    }
+};
+
+
+module.exports.deleteProduct = async (req, res) => {
+    try {
+  
+        let update = await ProductRepo.delete({user_id: req.body.id})
+  
+      return res.status(201).json({ message: 'Product deleted successfully' });
+    } catch (error) {
+      console.error('Error during customer signup:', error);
+      return res.status(500).json({ message: 'Something went wrong' });
+    }
+};
+
+module.exports.countProduct = async (req, res) => {
+    try {
+  
+        let count = await ProductRepo.count({})
+  
+      return res.status(201).json({ message: 'Product deleted successfully',data: count });
+    } catch (error) {
+      console.error('Error during customer signup:', error);
+      return res.status(500).json({ message: 'Something went wrong' });
+    }
+};
+
+module.exports.groupProductinSameManufacture = async (req, res) => {
+    try {
+  
+        let group = await ProductRepo.findGroupProductSameManufacture({})
+  
+      return res.status(201).json({ message: 'Product deleted successfully',data: group });
+    } catch (error) {
+      console.error('Error during customer signup:', error);
+      return res.status(500).json({ message: 'Something went wrong' });
     }
 };
