@@ -111,8 +111,8 @@ module.exports.findGroupProductSameManufacture = () => {
         Product.aggregate([
             {
                 $group: {
-                    _id: "$mfd_id", // Group by the "mfd_id" field
-                    products: { $push: "$$ROOT" } // Retain all details of the documents in the "products" array
+                    _id: "$mfd_id", 
+                    products: { $push: "$$ROOT" }
                 }
             }
         ]).then(result => {
