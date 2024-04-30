@@ -105,7 +105,7 @@ module.exports.count = (where, data) => {
             });
     });
 };
-
+  
 module.exports.findGroupProductSameManufacture = () => {
     return new Promise((resolve, reject) => {
         Product.aggregate([
