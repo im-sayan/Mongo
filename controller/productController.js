@@ -36,6 +36,22 @@ module.exports.findProducts = async (req, res) => {
     }
 };
 
+module.exports.findAllProducts = async (req, res) => {
+  try {
+    let data = {};
+    let page = req.query.page ? parseInt(req.query.page) : 1; 
+    data.limit = 12;
+    data.offset = (page - 1) * data.limit;
+
+    // Find all products with pagination
+    const findall = await ProductRepo.findAllwithAggregationWithPagination({},data);
+
+      return res.status(200).json({ message: 'Products fetch successfully', data: findall });
+  } catch (error) {
+      console.error('Error during product search:', error);
+      return res.status(500).json({ message: 'Something went wrong' });
+  }
+};
 
 module.exports.findONeProduct = async (req, res) => {
     try {

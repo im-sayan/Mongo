@@ -1,5 +1,5 @@
 const Product = require('../model/product')
-
+const mongoose = require('mongoose');
 
 module.exports.create = (data) => {
     return new Promise((resolve, reject) => {
@@ -38,6 +38,48 @@ module.exports.findAll = (where) => {
             });
     });
 };
+
+module.exports.findAllwithPagination = (where, data) => {
+    return new Promise((resolve, reject) => {
+      
+      Product.find(where).skip(data.offset).limit(data.limit)
+        .then(result => {
+          resolve(result);
+        })
+        .catch(error => {
+          reject(error);
+        });
+    });
+  };
+
+  module.exports.findAllwithAggregationWithPagination = (where, data) => {
+    return new Promise((resolve, reject) => {
+      Product.aggregate([
+        { $match: where },
+        { 
+          $lookup: {
+            from: mongoose.model('Manufacture').collection.name,
+            localField: 'mfd_id', 
+            foreignField: '_id', 
+            as: 'manufactures' 
+          }
+        },
+        { $skip: data.offset },
+        { $limit: data.limit },
+        { $sort: { _id: 1 } }
+      ])
+      .then(result => {
+        console.log('Aggregation Result:', result); // Debugging
+        resolve(result);
+      })
+      .catch(error => {
+        console.error('Error in aggregation:', error); // Error handling
+        reject(error);
+      });
+    });
+  };
+  
+  
 
 
 module.exports.delete = (where, data) => {

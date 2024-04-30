@@ -21,5 +21,6 @@ router.get('/count-products',ProductController.countProduct);
 router.get('/group-products',ProductController.groupProductinSameManufacture);
 router.post('/create-manufacture',ManufactureController.createManufacture);
 router.get('/manufacture-with-product',ManufactureController.findManufactureWithProduct);
+router.get('/fetch-all-products',ProductController.findAllProducts);
 
 module.exports = router;
