@@ -16,17 +16,7 @@ module.exports.create = (data) => {
     })
 }
 
-//Find One
-// module.exports.findOne = (where) => {
-//     return new Promise((resolve, reject) => {
-//         User.findOne({ where: where }).then(result => {
-//             result = JSON.parse(JSON.stringify(result).replace(/\:null/gi, "\:\"\""));
-//             resolve(result);
-//         }).catch((error) => {
-//             reject(error);
-//         })
-//     })
-// }
+
 
 
 //Find All

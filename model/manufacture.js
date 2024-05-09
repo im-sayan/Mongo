@@ -9,6 +9,10 @@ const mongoose = require('mongoose');
                 type: String,
                 //ref:'User'
             },
+            user_id: {
+                type: mongoose.Schema.ObjectId,
+                ref:'User'
+            },
             department: {
                 type: String,
             },

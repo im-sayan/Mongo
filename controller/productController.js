@@ -101,3 +101,15 @@ module.exports.groupProductinSameManufacture = async (req, res) => {
       return res.status(500).json({ message: 'Something went wrong' });
     }
 };
+
+module.exports.findONeProductpopulate = async (req, res) => {
+  try {
+      // Assuming ProductRepo is your MongoDB collection
+      let findOne = await ProductRepo.findOneProductPopulateLikeInclude({});
+
+      return res.status(200).json({ message: 'Products found successfully', data: findOne });
+  } catch (error) {
+      console.error('Error during product search:', error);
+      return res.status(500).json({ message: 'Something went wrong' });
+  }
+};

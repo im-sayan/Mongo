@@ -8,6 +8,7 @@ exports.createManufacture = async (req, res) => {
             companyName: req.body.companyName,
             unit_id: req.body.unit_id,
             department: req.body.department,
+            user_id: req.body.user_id, to: "objectId",
         }
         console.log(createData,"createData");
 
