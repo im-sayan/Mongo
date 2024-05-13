@@ -8,6 +8,8 @@ const router = express.Router();
 const UserController = require("../controller/userController");
 const ProductController = require("../controller/productController");
 const ManufactureController = require("../controller/manufactureController");
+const PostControllers = require("../controller/postController");
+const CommentControllers = require("../controller/commentController");
 
 router.post('/register-user',UserController.signUp);
 router.post('/create-product',ProductController.createProduct);
@@ -23,5 +25,12 @@ router.post('/create-manufacture',ManufactureController.createManufacture);
 router.get('/manufacture-with-product',ManufactureController.findManufactureWithProduct);
 router.get('/fetch-all-products',ProductController.findAllProducts);
 router.get('/fetch-populate-product',ProductController.findONeProductpopulate);
+
+router.post('/post-create',PostControllers.createPost);
+router.post('/post-comment-create',CommentControllers.createPostComment);
+router.post('/reply-comment',CommentControllers.replyToComment);
+router.post('/reply-like',CommentControllers.likeComment);
+router.post('/reply-like-subcomment',CommentControllers.likeSubComment);
+router.get('/fetch-post-with-comment',PostControllers.postDetailsWithComments);
 
 module.exports = router;
