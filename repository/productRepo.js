@@ -59,6 +59,14 @@ module.exports.findAllwithPagination = (where, data) => {
         { 
           $lookup: {
             from: mongoose.model('Manufacture').collection.name,
+            pipeline: [
+                { 
+                    $project: {
+                        companyName: "$companyName", 
+                        department: "$department",
+                    }
+                }
+              ],
             localField: 'mfd_id', 
             foreignField: '_id', 
             as: 'manufactures' 
