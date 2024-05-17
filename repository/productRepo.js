@@ -52,43 +52,116 @@ module.exports.findAllwithPagination = (where, data) => {
     });
   };
 
-  module.exports.findAllwithAggregationWithPagination = (where, data) => {
+//   module.exports.findAllwithAggregationWithPagination = (where, data) => {
+//     return new Promise((resolve, reject) => {
+//       Product.aggregate([
+//         { $match: where },
+//         {
+//             $project: {
+//               price: { $toInt: "$price" },
+//               // other fields...
+//             }
+//           },
+//         { 
+//           $lookup: {
+//             from: mongoose.model('Manufacture').collection.name,
+//             pipeline: [
+//                 { 
+//                     $project: {
+//                         companyName: "$companyName", 
+//                         department: "$department",
+//                     }
+//                 }
+//               ],
+//             localField: 'mfd_id', 
+//             foreignField: '_id', 
+//             as: 'manufactures' 
+//           }
+//         },
+//         { $skip: data.offset },
+//         { $limit: data.limit },
+//         { $sort: { _id: 1 } },
+//         {
+//             $group: {
+//               _id: null,
+//               totalRevenue: { $sum: "$price" },
+//               products: { $push: "$$ROOT" }
+//             }
+//           },
+//           {
+//             $project: {
+//               _id: 0,
+//               totalRevenue: 1,
+//               products: 1
+//             }
+//           }
+//         //totalAmount: { $sum: "$qty" },
+//       ])
+//       .then(result => {
+//         console.log('Aggregation Result:', result); // Debugging
+//         resolve(result);
+//       })
+//       .catch(error => {
+//         console.error('Error in aggregation:', error); // Error handling
+//         reject(error);
+//       });
+//     });
+//   };
+  
+module.exports.findAllwithAggregationWithPagination = (where, data) => {
     return new Promise((resolve, reject) => {
       Product.aggregate([
         { $match: where },
-        { 
+        {
           $lookup: {
             from: mongoose.model('Manufacture').collection.name,
             pipeline: [
-                { 
-                    $project: {
-                        companyName: "$companyName", 
-                        department: "$department",
-                    }
+              {
+                $project: {
+                  companyName: "$companyName",
+                  department: "$department",
                 }
-              ],
-            localField: 'mfd_id', 
-            foreignField: '_id', 
-            as: 'manufactures' 
+              }
+            ],
+            localField: 'mfd_id',
+            foreignField: '_id',
+            as: 'manufactures'
           }
         },
         { $skip: data.offset },
         { $limit: data.limit },
         { $sort: { _id: 1 } },
-        //totalAmount: { $sum: "$qty" },
+        {
+          $group: {
+            _id: null,
+            totalRevenue: { $sum:  { $toInt: "$price" }},
+            totalRevenueAvg: { $avg:  { $toInt: "$price" }},
+            minPrice: { $min: '$price' },
+            maxPrice: { $max: '$price' },
+            products: { $push: "$$ROOT" }
+          } 
+        },
+        {
+            $project: {
+              _id: 0,
+              totalRevenue: 1,
+              totalRevenueAvg: 1,
+              minPrice: 1,
+              maxPrice: 1,
+              products: 1
+            }
+          }
       ])
-      .then(result => {
+    .then(result => {
         console.log('Aggregation Result:', result); // Debugging
         resolve(result);
       })
-      .catch(error => {
+    .catch(error => {
         console.error('Error in aggregation:', error); // Error handling
         reject(error);
       });
     });
   };
-  
-  
 
 
 module.exports.delete = (where, data) => {

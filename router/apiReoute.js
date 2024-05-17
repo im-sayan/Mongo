@@ -32,5 +32,6 @@ router.post('/reply-comment',CommentControllers.replyToComment);
 router.post('/reply-like',CommentControllers.likeComment);
 router.post('/reply-like-subcomment',CommentControllers.likeSubComment);
 router.get('/fetch-post-with-comment',PostControllers.postDetailsWithComments);
+//router.post('/target-request',UserController.targetRequest);
 
 module.exports = router;
