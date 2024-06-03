@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // Define the character set for the password
 for(; ;){
-  const charset = 'ABCDEFGHIJKLMNPQRSTUVWXYZabcdefghijkmnpqrstuvwxyz0123456789!@#$%&./?><":}{)(_+=^~|*';
+  const charset = 'ABCDEFGHIJKLMNPQRSTUVWXYZabcdefghijkmnpqrstuvwxyz0123456789';
 //const charset = 'sukla'
 
 // Define the length of the password

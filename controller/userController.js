@@ -1,5 +1,7 @@
 require("dotenv").config();
 const UserRepo = require('../repository/userRepo');
+const commonFunction = require('../commonFunction');
+
 
 exports.signUp = async (req, res) => {
     try {
@@ -22,16 +24,24 @@ exports.signUp = async (req, res) => {
 };
 
 exports.findONeUser = async (req, res) => {
-    try {
-        // Assuming ProductRepo is your MongoDB collection
-        let findOne = await UserRepo.findOneUserAllProduct({});
-        console.log(findOne,"00000000");
-  
-        return res.status(200).json({ message: 'Products found successfully', data: findOne });
-    } catch (error) {
-        console.error('Error during product search:', error);
-        return res.status(500).json({ message: 'Something went wrong' });
-    }
+  let commonfunction = await commonFunction.checkInternet();
+        if(commonfunction == true){
+            try {
+              // Assuming ProductRepo is your MongoDB collection
+              
+              console.log(commonfunction,"commonfunction++++");
+              let findOne = await UserRepo.findOneUserAllProduct({});
+              console.log(findOne,"00000000");
+        
+              return res.status(200).json({ message: 'Products found successfully', data: findOne });
+            } catch (error) {
+                console.error('Error during product search:', error);
+                return res.status(500).json({ message: 'Something went wrong' });
+            }
+        }else if(commonfunction == false){
+          return res.status(400).json({ message: 'No internet connection' });
+        }
+    
 };
 
 exports.update = async (req, res) => {
