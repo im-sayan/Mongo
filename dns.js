@@ -2,7 +2,7 @@ const dns = require('dns');
 const GeoIP = require("simple-geoip");
 
 // Initialize the GeoIP object with your API key
-const geoIP = new GeoIP("at_i0EX5kYIklGLF0ep9uKEWLMDzhzx4");
+const geoIP = new GeoIP("at_8QVzyY5w7iAay0bDJzgvfSzddBk2A");
 //https://ip-geolocation.whoisxmlapi.com/api/v1?apiKey=at_i0EX5kYIklGLF0ep9uKEWLMDzhzx4&ipAddress=8.8.8.8
 
 const domainName = 'www.pmtool-website.kawawadigitalsolution.com';

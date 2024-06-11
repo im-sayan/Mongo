@@ -1,7 +1,7 @@
 const translate = require('translate-google');
 
 // // Text to translate
- const textToTranslate = 'Day-2 Workout plan';
+ const textToTranslate = `Today's workout plan 2`;
 
 // Translate to Arabic
 translate(textToTranslate, { to: 'ar' })
