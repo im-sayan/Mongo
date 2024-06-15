@@ -1,0 +1,5334 @@
+[{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c71"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/christmas_island.png",
+  "countryName": "Christmas Island",
+  "countryCode": "CX",
+  "currencyCode": "",
+  "currencyName": "Australian dollar",
+  "currencySymbol": "A$",
+  "telephoneCode": "61",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c70"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/afghanistan.png",
+  "countryName": "Afghanistan",
+  "countryCode": "AF",
+  "currencyCode": "",
+  "currencyName": "Afghan afghani",
+  "currencySymbol": "Ø‹",
+  "telephoneCode": "93",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c72"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/CI.png",
+  "countryName": "Cote D'Ivoire (Ivory Coast)",
+  "countryCode": "CI",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "nm",
+  "telephoneCode": "225",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c73"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/syrian.png",
+  "countryName": "Syria",
+  "countryCode": "SY",
+  "currencyCode": "",
+  "currencyName": "Syrian pound",
+  "currencySymbol": "Â£ or Ù„.Ø³",
+  "telephoneCode": "963",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c74"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/indonesia.png",
+  "countryName": "Indonesia",
+  "countryCode": "ID",
+  "currencyCode": "",
+  "currencyName": "Indonesian rupiah",
+  "currencySymbol": "Rp",
+  "telephoneCode": "62",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c75"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/israel-6349315_1280.png",
+  "countryName": "Israel",
+  "countryCode": "IL",
+  "currencyCode": "",
+  "currencyName": "Israeli new shekel",
+  "currencySymbol": "â‚ª",
+  "telephoneCode": "972",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c76"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bolivia.png",
+  "countryName": "Bolivia",
+  "countryCode": "BO",
+  "currencyCode": "",
+  "currencyName": "Bolivian boliviano",
+  "currencySymbol": "Bs.",
+  "telephoneCode": "591",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c77"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/qatar.png",
+  "countryName": "Qatar",
+  "countryCode": "QA",
+  "currencyCode": "",
+  "currencyName": "Qatari riyal",
+  "currencySymbol": "Ø±.Ù‚",
+  "telephoneCode": "974",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c7a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mauritania.png",
+  "countryName": "Mauritania",
+  "countryCode": "MR",
+  "currencyCode": "",
+  "currencyName": "Mauritanian ouguiya",
+  "currencySymbol": "UM",
+  "telephoneCode": "222",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c7b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/slovakia.png",
+  "countryName": "Slovakia",
+  "countryCode": "SK",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "421",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c7c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/venezuela.png",
+  "countryName": "Venezuela",
+  "countryCode": "VE",
+  "currencyCode": "",
+  "currencyName": "Venezuelan bolÃƒÂ­var",
+  "currencySymbol": "Bs F",
+  "telephoneCode": "58",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c7d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ca.png",
+  "countryName": "Canada",
+  "countryCode": "CA",
+  "currencyCode": "",
+  "currencyName": "Canadian dollar",
+  "currencySymbol": "C$",
+  "telephoneCode": "1",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c7e"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/netherlands.png",
+  "countryName": "Netherlands The",
+  "countryCode": "NL",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "31",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c7f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/african.png",
+  "countryName": "Central African Republic",
+  "countryCode": "CF",
+  "currencyCode": "",
+  "currencyName": "Central African CFA ",
+  "currencySymbol": "Fr",
+  "telephoneCode": "236",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c80"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/moldova.png",
+  "countryName": "Moldova",
+  "countryCode": "MD",
+  "currencyCode": "",
+  "currencyName": "Moldovan leu",
+  "currencySymbol": "L",
+  "telephoneCode": "373",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c81"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/wallis-and-futuna.png",
+  "countryName": "Wallis And Futuna Islands",
+  "countryCode": "WF",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "681",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c82"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mozambique.png",
+  "countryName": "Mozambique",
+  "countryCode": "MZ",
+  "currencyCode": "",
+  "currencyName": "Mozambican metical",
+  "currencySymbol": "MT",
+  "telephoneCode": "258",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c83"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/malawi.png",
+  "countryName": "Malawi",
+  "countryCode": "MW",
+  "currencyCode": "",
+  "currencyName": "Malawian kwacha",
+  "currencySymbol": "K",
+  "telephoneCode": "265",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c84"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cambodia.png",
+  "countryName": "Cambodia",
+  "countryCode": "KH",
+  "currencyCode": "",
+  "currencyName": "Cambodian riel",
+  "currencySymbol": "áŸ›",
+  "telephoneCode": "855",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c85"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/chile.png",
+  "countryName": "Chile",
+  "countryCode": "CL",
+  "currencyCode": "",
+  "currencyName": "Chilean peso",
+  "currencySymbol": "$",
+  "telephoneCode": "56",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c78"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/united-kingdom-162452_1280.png",
+  "countryName": "United Kingdom",
+  "countryCode": "GB",
+  "currencyCode": "",
+  "currencyName": "British pound",
+  "currencySymbol": "£",
+  "telephoneCode": "44",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c79"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sri-lanka.png",
+  "countryName": "Sri Lanka",
+  "countryCode": "LK",
+  "currencyCode": "",
+  "currencyName": "Sri Lankan rupee",
+  "currencySymbol": "Rs or à¶»à·”",
+  "telephoneCode": "94",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c88"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/congo.png",
+  "countryName": "Congo",
+  "countryCode": "CG",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "242",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c89"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/thailand.png",
+  "countryName": "Thailand",
+  "countryCode": "TH",
+  "currencyCode": "",
+  "currencyName": "Thai baht",
+  "currencySymbol": "à¸¿",
+  "telephoneCode": "66",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c8a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/saint-lucia.png",
+  "countryName": "Saint Lucia",
+  "countryCode": "LC",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1758",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c8b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/italy.png",
+  "countryName": "Italy",
+  "countryCode": "IT",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "39",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c8c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/niger.png",
+  "countryName": "Niger",
+  "countryCode": "NE",
+  "currencyCode": "",
+  "currencyName": "West African CFA fra",
+  "currencySymbol": "Fr",
+  "telephoneCode": "227",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c8d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/virgin_island.png",
+  "countryName": "Virgin Islands (British)",
+  "countryCode": "VG",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1284",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c8e"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/vanuatu.png",
+  "countryName": "Vanuatu",
+  "countryCode": "VU",
+  "currencyCode": "",
+  "currencyName": "Vanuatu vatu",
+  "currencySymbol": "Vt",
+  "telephoneCode": "678",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c8f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/be.png",
+  "countryName": "Belgium",
+  "countryCode": "BE",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "32",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c90"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/fo.png",
+  "countryName": "Faroe Islands",
+  "countryCode": "FO",
+  "currencyCode": "",
+  "currencyName": "Danish krone",
+  "currencySymbol": "kr",
+  "telephoneCode": "298",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c91"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mh.png",
+  "countryName": "Marshall Islands",
+  "countryCode": "MH",
+  "currencyCode": "",
+  "currencyName": "United States dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "692",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c92"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mx.png",
+  "countryName": "Mexico",
+  "countryCode": "MX",
+  "currencyCode": "",
+  "currencyName": "Mexican peso",
+  "currencySymbol": "$",
+  "telephoneCode": "52",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c93"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/fk.png",
+  "countryName": "Falkland Islands",
+  "countryCode": "FK",
+  "currencyCode": "",
+  "currencyName": "Falkland Islands pou",
+  "currencySymbol": "Â£",
+  "telephoneCode": "500",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c94"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ki.png",
+  "countryName": "Kiribati",
+  "countryCode": "KI",
+  "currencyCode": "",
+  "currencyName": "Australian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "686",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c95"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/dm.png",
+  "countryName": "Dominica",
+  "countryCode": "DM",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1767",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c96"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cy.png",
+  "countryName": "Cyprus",
+  "countryCode": "CY",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "357",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c97"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gf.png",
+  "countryName": "French Guiana",
+  "countryCode": "GF",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "594",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c98"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/dz.png",
+  "countryName": "Algeria",
+  "countryCode": "DZ",
+  "currencyCode": "",
+  "currencyName": "Algerian dinar",
+  "currencySymbol": "Ø¯.Ø¬",
+  "telephoneCode": "213",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c99"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ai.png",
+  "countryName": "Anguilla",
+  "countryCode": "AI",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1264",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c9a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ls.png",
+  "countryName": "Lesotho",
+  "countryCode": "LS",
+  "currencyCode": "",
+  "currencyName": "Lesotho loti",
+  "currencySymbol": "L",
+  "telephoneCode": "266",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c9b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/jo.png",
+  "countryName": "Jordan",
+  "countryCode": "JO",
+  "currencyCode": "",
+  "currencyName": "Jordanian dinar",
+  "currencySymbol": "Ø¯.Ø§",
+  "telephoneCode": "962",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c86"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/fm.png",
+  "countryName": "Micronesia",
+  "countryCode": "FM",
+  "currencyCode": "",
+  "currencyName": "Micronesian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "691",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c87"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/td.png",
+  "countryName": "Chad",
+  "countryCode": "TD",
+  "currencyCode": "",
+  "currencyName": "Central African CFA ",
+  "currencySymbol": "Fr",
+  "telephoneCode": "235",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c9e"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/eh.png",
+  "countryName": "Western Sahara",
+  "countryCode": "EH",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "212",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c9f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tg.png",
+  "countryName": "Togo",
+  "countryCode": "TG",
+  "currencyCode": "",
+  "currencyName": "West African CFA fra",
+  "currencySymbol": "Fr",
+  "telephoneCode": "228",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca0"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cm.png",
+  "countryName": "Cameroon",
+  "countryCode": "CM",
+  "currencyCode": "",
+  "currencyName": "Central African CFA ",
+  "currencySymbol": "Fr",
+  "telephoneCode": "237",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca1"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bi.png",
+  "countryName": "Burundi",
+  "countryCode": "BI",
+  "currencyCode": "",
+  "currencyName": "Burundian franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "257",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca2"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tz.png",
+  "countryName": "Tanzania",
+  "countryCode": "TZ",
+  "currencyCode": "",
+  "currencyName": "Tanzanian shilling",
+  "currencySymbol": "Sh",
+  "telephoneCode": "255",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca3"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ee.png",
+  "countryName": "Estonia",
+  "countryCode": "EE",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "372",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca4"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cc.png",
+  "countryName": "Cocos (Keeling) Islands",
+  "countryCode": "CC",
+  "currencyCode": "",
+  "currencyName": "Australian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "672",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca5"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ng.png",
+  "countryName": "Nigeria",
+  "countryCode": "NG",
+  "currencyCode": "",
+  "currencyName": "Nigerian naira",
+  "currencySymbol": "â‚¦",
+  "telephoneCode": "234",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca6"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/kp.png",
+  "countryName": "Korea North",
+  "countryCode": "KP",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "850",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca7"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/np.png",
+  "countryName": "Nepal",
+  "countryCode": "NP",
+  "currencyCode": "",
+  "currencyName": "Nepalese rupee",
+  "currencySymbol": "â‚¨",
+  "telephoneCode": "977",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca8"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ck.png",
+  "countryName": "Cook Islands",
+  "countryCode": "CK",
+  "currencyCode": "",
+  "currencyName": "New Zealand dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "682",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ca9"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ga.png",
+  "countryName": "Gabon",
+  "countryCode": "GA",
+  "currencyCode": "",
+  "currencyName": "Central African CFA ",
+  "currencySymbol": "Fr",
+  "telephoneCode": "241",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51caa"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/fi.png",
+  "countryName": "Finland",
+  "countryCode": "FI",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "358",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cab"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bw.png",
+  "countryName": "Botswana",
+  "countryCode": "BW",
+  "currencyCode": "",
+  "currencyName": "Botswana pula",
+  "currencySymbol": "P",
+  "telephoneCode": "267",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cac"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ky.png",
+  "countryName": "Cayman Islands",
+  "countryCode": "KY",
+  "currencyCode": "",
+  "currencyName": "Cayman Islands dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1345",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cad"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ao.png",
+  "countryName": "Angola",
+  "countryCode": "AO",
+  "currencyCode": "",
+  "currencyName": "Angolan kwanza",
+  "currencySymbol": "Kz",
+  "telephoneCode": "244",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cae"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/fr.png",
+  "countryName": "France",
+  "countryCode": "FR",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "33",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51caf"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sr.png",
+  "countryName": "Suriname",
+  "countryCode": "SR",
+  "currencyCode": "",
+  "currencyName": "Surinamese dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "597",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb0"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ph.png",
+  "countryName": "Philippines",
+  "countryCode": "PH",
+  "currencyCode": "",
+  "currencyName": "Philippine peso",
+  "currencySymbol": "â‚±",
+  "telephoneCode": "63",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb1"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/rw.png",
+  "countryName": "Rwanda",
+  "countryCode": "RW",
+  "currencyCode": "",
+  "currencyName": "Rwandan franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "250",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb2"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ni.png",
+  "countryName": "Nicaragua",
+  "countryCode": "NI",
+  "currencyCode": "",
+  "currencyName": "Nicaraguan cÃƒÂ³rdoba",
+  "currencySymbol": "C$",
+  "telephoneCode": "505",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb3"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ml.png",
+  "countryName": "Mali",
+  "countryCode": "ML",
+  "currencyCode": "",
+  "currencyName": "West African CFA fra",
+  "currencySymbol": "Fr",
+  "telephoneCode": "223",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb4"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mo.png",
+  "countryName": "Macau S.A.R.",
+  "countryCode": "MO",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "853",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb5"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/my.png",
+  "countryName": "Malaysia",
+  "countryCode": "MY",
+  "currencyCode": "",
+  "currencyName": "Malaysian ringgit",
+  "currencySymbol": "RM",
+  "telephoneCode": "60",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb6"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bz.png",
+  "countryName": "Belize",
+  "countryCode": "BZ",
+  "currencyCode": "",
+  "currencyName": "Belize dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "501",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb7"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mp.png",
+  "countryName": "Northern Mariana Islands",
+  "countryCode": "MP",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1670",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb8"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/hn.png",
+  "countryName": "Honduras",
+  "countryCode": "HN",
+  "currencyCode": "",
+  "currencyName": "Honduran lempira",
+  "currencySymbol": "L",
+  "telephoneCode": "504",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c9c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bh.png",
+  "countryName": "Bahrain",
+  "countryCode": "BH",
+  "currencyCode": "",
+  "currencyName": "Bahraini dinar",
+  "currencySymbol": ".Ø¯.Ø¨",
+  "telephoneCode": "973",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51c9d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mg.png",
+  "countryName": "Madagascar",
+  "countryCode": "MG",
+  "currencyCode": "",
+  "currencyName": "Malagasy ariary",
+  "currencySymbol": "Ar",
+  "telephoneCode": "261",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cbb"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tk.png",
+  "countryName": "Tokelau",
+  "countryCode": "TK",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "690",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cbc"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sl.png",
+  "countryName": "Sierra Leone",
+  "countryCode": "SL",
+  "currencyCode": "",
+  "currencyName": "Sierra Leonean leone",
+  "currencySymbol": "Le",
+  "telephoneCode": "232",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cbd"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bt.png",
+  "countryName": "Bhutan",
+  "countryCode": "BT",
+  "currencyCode": "",
+  "currencyName": "Bhutanese ngultrum",
+  "currencySymbol": "Nu.",
+  "telephoneCode": "975",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cbe"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tp.png",
+  "countryName": "East Timor",
+  "countryCode": "TP",
+  "currencyCode": "",
+  "currencyName": "United States dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "670",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cbf"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/va.png",
+  "countryName": "Vatican City State (Holy See)",
+  "countryCode": "VA",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "39",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc0"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ad.png",
+  "countryName": "Andorra",
+  "countryCode": "AD",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "376",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc1"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ae.png",
+  "countryName": "United Arab Emirates",
+  "countryCode": "AE",
+  "currencyCode": "",
+  "currencyName": "United Arab Emirates",
+  "currencySymbol": "Ø¯.Ø¥",
+  "telephoneCode": "971",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc2"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/an.png",
+  "countryName": "Netherlands Antilles",
+  "countryCode": "AN",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "599",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc3"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/xg.png",
+  "countryName": "Smaller Territories of the UK",
+  "countryCode": "XG",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "44",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc4"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cd.png",
+  "countryName": "Congo The Democratic Republic Of The",
+  "countryCode": "CD",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "242",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc5"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/aq.png",
+  "countryName": "Antarctica",
+  "countryCode": "AQ",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc6"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ly.png",
+  "countryName": "Libya",
+  "countryCode": "LY",
+  "currencyCode": "",
+  "currencyName": "Libyan dinar",
+  "currencySymbol": "Ù„.Ø¯",
+  "telephoneCode": "218",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc7"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/lr.png",
+  "countryName": "Liberia",
+  "countryCode": "LR",
+  "currencyCode": "",
+  "currencyName": "Liberian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "231",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc8"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gm.png",
+  "countryName": "Gambia The",
+  "countryCode": "GM",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "220",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cc9"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/yt.png",
+  "countryName": "Mayotte",
+  "countryCode": "YT",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "269",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cca"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cn.png",
+  "countryName": "China",
+  "countryCode": "CN",
+  "currencyCode": "",
+  "currencyName": "Chinese yuan",
+  "currencySymbol": "Â¥ or å…ƒ",
+  "telephoneCode": "86",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ccb"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sm.png",
+  "countryName": "San Marino",
+  "countryCode": "SM",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "378",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ccc"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/au.png",
+  "countryName": "Australia",
+  "countryCode": "AU",
+  "currencyCode": "",
+  "currencyName": "Australian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "61",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ccd"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tt.png",
+  "countryName": "Trinidad And Tobago",
+  "countryCode": "TT",
+  "currencyCode": "",
+  "currencyName": "Trinidad and Tobago ",
+  "currencySymbol": "$",
+  "telephoneCode": "1868",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cce"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mn.png",
+  "countryName": "Mongolia",
+  "countryCode": "MN",
+  "currencyCode": "",
+  "currencyName": "Mongolian tÃƒÂ¶grÃƒÂ¶g",
+  "currencySymbol": "â‚®",
+  "telephoneCode": "976",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ccf"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/am.png",
+  "countryName": "Armenia",
+  "countryCode": "AM",
+  "currencyCode": "",
+  "currencyName": "Armenian dram",
+  "currencySymbol": "",
+  "telephoneCode": "374",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd0"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sj.png",
+  "countryName": "Svalbard And Jan Mayen Islands",
+  "countryCode": "SJ",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "47",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd1"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/kn.png",
+  "countryName": "Saint Kitts And Nevis",
+  "countryCode": "KN",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1869",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd2"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gr.png",
+  "countryName": "Greece",
+  "countryCode": "GR",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "30",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd3"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/om.png",
+  "countryName": "Oman",
+  "countryCode": "OM",
+  "currencyCode": "",
+  "currencyName": "Omani rial",
+  "currencySymbol": "Ø±.Ø¹.",
+  "telephoneCode": "968",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd4"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bf.png",
+  "countryName": "Burkina Faso",
+  "countryCode": "BF",
+  "currencyCode": "",
+  "currencyName": "West African CFA fra",
+  "currencySymbol": "Fr",
+  "telephoneCode": "226",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd5"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bn.png",
+  "countryName": "Brunei",
+  "countryCode": "BN",
+  "currencyCode": "",
+  "currencyName": "Brunei dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "673",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd6"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/is.png",
+  "countryName": "Iceland",
+  "countryCode": "IS",
+  "currencyCode": "",
+  "currencyName": "Icelandic krÃƒÂ³na",
+  "currencySymbol": "kr",
+  "telephoneCode": "354",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cb9"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/hu.png",
+  "countryName": "Hungary",
+  "countryCode": "HU",
+  "currencyCode": "",
+  "currencyName": "Hungarian forint",
+  "currencySymbol": "Ft",
+  "telephoneCode": "36",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cba"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/by.png",
+  "countryName": "Belarus",
+  "countryCode": "BY",
+  "currencyCode": "",
+  "currencyName": "Belarusian ruble",
+  "currencySymbol": "Br",
+  "telephoneCode": "375",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd9"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/na.png",
+  "countryName": "Namibia",
+  "countryCode": "NA",
+  "currencyCode": "",
+  "currencyName": "Namibian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "264",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cda"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/et.png",
+  "countryName": "Ethiopia",
+  "countryCode": "ET",
+  "currencyCode": "",
+  "currencyName": "Ethiopian birr",
+  "currencySymbol": "Br",
+  "telephoneCode": "251",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cdb"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bj.png",
+  "countryName": "Benin",
+  "countryCode": "BJ",
+  "currencyCode": "",
+  "currencyName": "West African CFA fra",
+  "currencySymbol": "Fr",
+  "telephoneCode": "229",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cdc"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tw.png",
+  "countryName": "Taiwan",
+  "countryCode": "TW",
+  "currencyCode": "",
+  "currencyName": "New Taiwan dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "886",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cdd"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pw.png",
+  "countryName": "Palau",
+  "countryCode": "PW",
+  "currencyCode": "",
+  "currencyName": "Palauan dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "680",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cde"
+  },
+  "countryFlag": "",
+  "countryName": "British Indian Ocean Territory",
+  "countryCode": "IO",
+  "currencyCode": "",
+  "currencyName": "United States dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "246",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cdf"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/la.png",
+  "countryName": "Laos",
+  "countryCode": "LA",
+  "currencyCode": "",
+  "currencyName": "Lao kip",
+  "currencySymbol": "â‚­",
+  "telephoneCode": "856",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce0"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bm.png",
+  "countryName": "Bermuda",
+  "countryCode": "BM",
+  "currencyCode": "",
+  "currencyName": "Bermudian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "1441",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce1"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/jm.png",
+  "countryName": "Jamaica",
+  "countryCode": "JM",
+  "currencyCode": "",
+  "currencyName": "Jamaican dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "1876",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce2"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cz.png",
+  "countryName": "Czech Republic",
+  "countryCode": "CZ",
+  "currencyCode": "",
+  "currencyName": "Czech koruna",
+  "currencySymbol": "KÄ",
+  "telephoneCode": "420",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce3"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sh.png",
+  "countryName": "Saint Helena",
+  "countryCode": "SH",
+  "currencyCode": "",
+  "currencyName": "Saint Helena pound",
+  "currencySymbol": "Â£",
+  "telephoneCode": "290",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce4"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pa.png",
+  "countryName": "Panama",
+  "countryCode": "PA",
+  "currencyCode": "",
+  "currencyName": "Panamanian balboa",
+  "currencySymbol": "B/.",
+  "telephoneCode": "507",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce5"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ru.png",
+  "countryName": "Russia",
+  "countryCode": "RU",
+  "currencyCode": "",
+  "currencyName": "Russian ruble",
+  "currencySymbol": "",
+  "telephoneCode": "70",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce6"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tv.png",
+  "countryName": "Tuvalu",
+  "countryCode": "TV",
+  "currencyCode": "",
+  "currencyName": "Australian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "688",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce7"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/lb.png",
+  "countryName": "Lebanon",
+  "countryCode": "LB",
+  "currencyCode": "",
+  "currencyName": "Lebanese pound",
+  "currencySymbol": "Ù„.Ù„",
+  "telephoneCode": "961",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce8"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pn.png",
+  "countryName": "Pitcairn Island",
+  "countryCode": "PN",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ce9"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ke.png",
+  "countryName": "Kenya",
+  "countryCode": "KE",
+  "currencyCode": "",
+  "currencyName": "Kenyan shilling",
+  "currencySymbol": "Sh",
+  "telephoneCode": "254",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cea"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ug.png",
+  "countryName": "Uganda",
+  "countryCode": "UG",
+  "currencyCode": "",
+  "currencyName": "Ugandan shilling",
+  "currencySymbol": "Sh",
+  "telephoneCode": "256",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ceb"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pe.png",
+  "countryName": "Peru",
+  "countryCode": "PE",
+  "currencyCode": "",
+  "currencyName": "Peruvian nuevo sol",
+  "currencySymbol": "S/.",
+  "telephoneCode": "51",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cec"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gn.png",
+  "countryName": "Guinea",
+  "countryCode": "GN",
+  "currencyCode": "",
+  "currencyName": "Guinean franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "224",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51ced"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gi.png",
+  "countryName": "Gibraltar",
+  "countryCode": "GI",
+  "currencyCode": "",
+  "currencyName": "Gibraltar pound",
+  "currencySymbol": "Â£",
+  "telephoneCode": "350",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cee"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ro.png",
+  "countryName": "Romania",
+  "countryCode": "RO",
+  "currencyCode": "",
+  "currencyName": "Romanian leu",
+  "currencySymbol": "lei",
+  "telephoneCode": "40",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cef"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/km.png",
+  "countryName": "Comoros",
+  "countryCode": "KM",
+  "currencyCode": "",
+  "currencyName": "Comorian franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "269",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf0"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/py.png",
+  "countryName": "Paraguay",
+  "countryCode": "PY",
+  "currencyCode": "",
+  "currencyName": "Paraguayan guaranÃƒÂ­",
+  "currencySymbol": "â‚²",
+  "telephoneCode": "595",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf1"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/zm.png",
+  "countryName": "Zambia",
+  "countryCode": "ZM",
+  "currencyCode": "",
+  "currencyName": "Zambian kwacha",
+  "currencySymbol": "ZK",
+  "telephoneCode": "260",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf2"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/uy.png",
+  "countryName": "Uruguay",
+  "countryCode": "UY",
+  "currencyCode": "",
+  "currencyName": "Uruguayan peso",
+  "currencySymbol": "$",
+  "telephoneCode": "598",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf3"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bg.png",
+  "countryName": "Bulgaria",
+  "countryCode": "BG",
+  "currencyCode": "",
+  "currencyName": "Bulgarian lev",
+  "currencySymbol": "Ð»Ð²",
+  "telephoneCode": "359",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf7"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tc.png",
+  "countryName": "Turks And Caicos Islands",
+  "countryCode": "TC",
+  "currencyCode": "",
+  "currencyName": "United States dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "1649",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf8"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gs.png",
+  "countryName": "South Georgia",
+  "countryCode": "GS",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf9"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pk.png",
+  "countryName": "Pakistan",
+  "countryCode": "PK",
+  "currencyCode": "",
+  "currencyName": "Pakistani rupee",
+  "currencySymbol": "â‚¨",
+  "telephoneCode": "92",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cfa"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ws.png",
+  "countryName": "Samoa",
+  "countryCode": "WS",
+  "currencyCode": "",
+  "currencyName": "Samoan tÃ„ÂlÃ„Â",
+  "currencySymbol": "T",
+  "telephoneCode": "684",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cfb"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/hr.png",
+  "countryName": "Croatia (Hrvatska)",
+  "countryCode": "HR",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "385",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cfc"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/al.png",
+  "countryName": "Albania",
+  "countryCode": "AL",
+  "currencyCode": "",
+  "currencyName": "Albanian lek",
+  "currencySymbol": "L",
+  "telephoneCode": "355",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cfd"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gy.png",
+  "countryName": "Guyana",
+  "countryCode": "GY",
+  "currencyCode": "",
+  "currencyName": "Guyanese dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "592",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf4"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/so.png",
+  "countryName": "Somalia",
+  "countryCode": "SO",
+  "currencyCode": "",
+  "currencyName": "Somali shilling",
+  "currencySymbol": "Sh",
+  "telephoneCode": "252",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf5"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sn.png",
+  "countryName": "Senegal",
+  "countryCode": "SN",
+  "currencyCode": "",
+  "currencyName": "West African CFA fra",
+  "currencySymbol": "Fr",
+  "telephoneCode": "221",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cf6"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cu.png",
+  "countryName": "Cuba",
+  "countryCode": "CU",
+  "currencyCode": "",
+  "currencyName": "Cuban convertible pe",
+  "currencySymbol": "$",
+  "telephoneCode": "53",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd7"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ua.png",
+  "countryName": "Ukraine",
+  "countryCode": "UA",
+  "currencyCode": "",
+  "currencyName": "Ukrainian hryvnia",
+  "currencySymbol": "â‚´",
+  "telephoneCode": "380",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cd8"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ss.png",
+  "countryName": "South Sudan",
+  "countryCode": "SS",
+  "currencyCode": "",
+  "currencyName": "South Sudanese pound",
+  "currencySymbol": "Â£",
+  "telephoneCode": "211",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d00"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ar.png",
+  "countryName": "Argentina",
+  "countryCode": "AR",
+  "currencyCode": "",
+  "currencyName": "Argentine peso",
+  "currencySymbol": "$",
+  "telephoneCode": "54",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d01"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sc.png",
+  "countryName": "Seychelles",
+  "countryCode": "SC",
+  "currencyCode": "",
+  "currencyName": "Seychellois rupee",
+  "currencySymbol": "â‚¨",
+  "telephoneCode": "248",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d02"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sv.png",
+  "countryName": "El Salvador",
+  "countryCode": "SV",
+  "currencyCode": "",
+  "currencyName": "United States dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "503",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d03"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/li.png",
+  "countryName": "Liechtenstein",
+  "countryCode": "LI",
+  "currencyCode": "",
+  "currencyName": "Swiss franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "423",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d04"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/hm.png",
+  "countryName": "Heard and McDonald Islands",
+  "countryCode": "HM",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d05"
+  },
+  "countryFlag": "",
+  "countryName": "Jersey",
+  "countryCode": "XJ",
+  "currencyCode": "",
+  "currencyName": "British pound",
+  "currencySymbol": "Â£",
+  "telephoneCode": "44",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d0c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ir.png",
+  "countryName": "Iran",
+  "countryCode": "IR",
+  "currencyCode": "",
+  "currencyName": "Iranian rial",
+  "currencySymbol": "ï·¼",
+  "telephoneCode": "98",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d0d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/dk.png",
+  "countryName": "Denmark",
+  "countryCode": "DK",
+  "currencyCode": "",
+  "currencyName": "Danish krone",
+  "currencySymbol": "kr",
+  "telephoneCode": "45",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d0e"
+  },
+  "countryFlag": "",
+  "countryName": "Malta",
+  "countryCode": "MT",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "356",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d0f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gu.png",
+  "countryName": "Guam",
+  "countryCode": "GU",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1671",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d10"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/rs.png",
+  "countryName": "Serbia",
+  "countryCode": "RS",
+  "currencyCode": "",
+  "currencyName": "Serbian dinar",
+  "currencySymbol": "Ð´Ð¸Ð½. or din.",
+  "telephoneCode": "381",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d11"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/es.png",
+  "countryName": "Spain",
+  "countryCode": "ES",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "34",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d12"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tf.png",
+  "countryName": "French Southern Territories",
+  "countryCode": "TF",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d13"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/er.png",
+  "countryName": "Eritrea",
+  "countryCode": "ER",
+  "currencyCode": "",
+  "currencyName": "Eritrean nakfa",
+  "currencySymbol": "Nfk",
+  "telephoneCode": "291",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d06"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/um.png",
+  "countryName": "United States Minor Outlying Islands",
+  "countryCode": "UM",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d07"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mk.png",
+  "countryName": "Macedonia",
+  "countryCode": "MK",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "389",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d08"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/br.png",
+  "countryName": "Brazil",
+  "countryCode": "BR",
+  "currencyCode": "",
+  "currencyName": "Brazilian real",
+  "currencySymbol": "R$",
+  "telephoneCode": "55",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d09"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/aw.png",
+  "countryName": "Aruba",
+  "countryCode": "AW",
+  "currencyCode": "",
+  "currencyName": "Aruban florin",
+  "currencySymbol": "Æ’",
+  "telephoneCode": "297",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d0a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pl.png",
+  "countryName": "Poland",
+  "countryCode": "PL",
+  "currencyCode": "",
+  "currencyName": "Polish zÃ…â€šoty",
+  "currencySymbol": "zÅ‚",
+  "telephoneCode": "48",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d0b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bb.png",
+  "countryName": "Barbados",
+  "countryCode": "BB",
+  "currencyCode": "",
+  "currencyName": "Barbadian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "1246",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d16"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mq.png",
+  "countryName": "Martinique",
+  "countryCode": "MQ",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "596",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d17"
+  },
+  "countryFlag": "",
+  "countryName": "Man (Isle of)",
+  "countryCode": "XM",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "44",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d19"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ge.png",
+  "countryName": "Georgia",
+  "countryCode": "GE",
+  "currencyCode": "",
+  "currencyName": "Georgian lari",
+  "currencySymbol": "áƒš",
+  "telephoneCode": "995",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d1a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/fj.png",
+  "countryName": "Fiji Islands",
+  "countryCode": "FJ",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "679",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d1b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/nz.png",
+  "countryName": "New Zealand",
+  "countryCode": "NZ",
+  "currencyCode": "",
+  "currencyName": "New Zealand dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "64",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d18"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/vn.png",
+  "countryName": "Vietnam",
+  "countryCode": "VN",
+  "currencyCode": "",
+  "currencyName": "Vietnamese Ã„â€˜Ã¡Â»â€œng",
+  "currencySymbol": "â‚«",
+  "telephoneCode": "84",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d1c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gq.png",
+  "countryName": "Equatorial Guinea",
+  "countryCode": "GQ",
+  "currencyCode": "",
+  "currencyName": "Central African CFA ",
+  "currencySymbol": "Fr",
+  "telephoneCode": "240",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d1e"
+  },
+  "countryFlag": "",
+  "countryName": "Yugoslavia",
+  "countryCode": "YU",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "38",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d1d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mu.png",
+  "countryName": "Mauritius",
+  "countryCode": "MU",
+  "currencyCode": "",
+  "currencyName": "Mauritian rupee",
+  "currencySymbol": "â‚¨",
+  "telephoneCode": "230",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d14"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/hk.png",
+  "countryName": "Hong Kong S.A.R.",
+  "countryCode": "HK",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "852",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d15"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pr.png",
+  "countryName": "Puerto Rico",
+  "countryCode": "PR",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1787",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d20"
+  },
+  "countryFlag": "",
+  "countryName": "Guernsey and Alderney",
+  "countryCode": "XU",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "44",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d21"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mc.png",
+  "countryName": "Monaco",
+  "countryCode": "MC",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "377",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d22"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/to.png",
+  "countryName": "Tonga",
+  "countryCode": "TO",
+  "currencyCode": "",
+  "currencyName": "Tongan paÃŠÂ»anga",
+  "currencySymbol": "T$",
+  "telephoneCode": "676",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d23"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tr.png",
+  "countryName": "Turkey",
+  "countryCode": "TR",
+  "currencyCode": "",
+  "currencyName": "Turkish lira",
+  "currencySymbol": "",
+  "telephoneCode": "90",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d24"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ye.png",
+  "countryName": "Yemen",
+  "countryCode": "YE",
+  "currencyCode": "",
+  "currencyName": "Yemeni rial",
+  "currencySymbol": "ï·¼",
+  "telephoneCode": "967",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d25"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ps.png",
+  "countryName": "Palestinian Territory Occupied",
+  "countryCode": "PS",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "970",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d26"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pt.png",
+  "countryName": "Portugal",
+  "countryCode": "PT",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "351",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d27"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ms.png",
+  "countryName": "Montserrat",
+  "countryCode": "MS",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1664",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d28"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/kw.png",
+  "countryName": "Kuwait",
+  "countryCode": "KW",
+  "currencyCode": "",
+  "currencyName": "Kuwaiti dinar",
+  "currencySymbol": "Ø¯.Ùƒ",
+  "telephoneCode": "965",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d29"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gw.png",
+  "countryName": "Guinea-Bissau",
+  "countryCode": "GW",
+  "currencyCode": "",
+  "currencyName": "West African CFA fra",
+  "currencySymbol": "Fr",
+  "telephoneCode": "245",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d2b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/uz.png",
+  "countryName": "Uzbekistan",
+  "countryCode": "UZ",
+  "currencyCode": "",
+  "currencyName": "Uzbekistani som",
+  "currencySymbol": "",
+  "telephoneCode": "998",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d2a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/nf.png",
+  "countryName": "Norfolk Island",
+  "countryCode": "NF",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "672",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d2d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pm.png",
+  "countryName": "Saint Pierre and Miquelon",
+  "countryCode": "PM",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "508",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d1f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/lt.png",
+  "countryName": "Lithuania",
+  "countryCode": "LT",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "370",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d2c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tj.png",
+  "countryName": "Tajikistan",
+  "countryCode": "TJ",
+  "currencyCode": "",
+  "currencyName": "Tajikistani somoni",
+  "currencySymbol": "Ð…Ðœ",
+  "telephoneCode": "992",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d2e"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/de.png",
+  "countryName": "Germany",
+  "countryCode": "DE",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "49",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d2f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/az.png",
+  "countryName": "Azerbaijan",
+  "countryCode": "AZ",
+  "currencyCode": "",
+  "currencyName": "Azerbaijani manat",
+  "currencySymbol": "",
+  "telephoneCode": "994",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d30"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/vc.png",
+  "countryName": "Saint Vincent And The Grenadines",
+  "countryCode": "VC",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1784",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cfe"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gp.png",
+  "countryName": "Guadeloupe",
+  "countryCode": "GP",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "590",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51cff"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cr.png",
+  "countryName": "Costa Rica",
+  "countryCode": "CR",
+  "currencyCode": "",
+  "currencyName": "Costa Rican colÃƒÂ³n",
+  "currencySymbol": "â‚¡",
+  "telephoneCode": "506",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d3c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sb.png",
+  "countryName": "Solomon Islands",
+  "countryCode": "SB",
+  "currencyCode": "",
+  "currencyName": "Solomon Islands doll",
+  "currencySymbol": "$",
+  "telephoneCode": "677",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d33"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tm.png",
+  "countryName": "Turkmenistan",
+  "countryCode": "TM",
+  "currencyCode": "",
+  "currencyName": "Turkmenistan manat",
+  "currencySymbol": "m",
+  "telephoneCode": "7370",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d34"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/india.png",
+  "countryName": "India",
+  "countryCode": "IN",
+  "currencyCode": "",
+  "currencyName": "IndianCurrency",
+  "currencySymbol": "₹",
+  "telephoneCode": "91",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d35"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/re.png",
+  "countryName": "Reunion",
+  "countryCode": "RE",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "262",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d36"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/no.png",
+  "countryName": "Norway",
+  "countryCode": "NO",
+  "currencyCode": "",
+  "currencyName": "Norwegian krone",
+  "currencySymbol": "kr",
+  "telephoneCode": "47",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d38"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/kz.png",
+  "countryName": "Kazakhstan",
+  "countryCode": "KZ",
+  "currencyCode": "",
+  "currencyName": "Kazakhstani tenge",
+  "currencySymbol": "",
+  "telephoneCode": "7",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d37"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/cv.png",
+  "countryName": "Cape Verde",
+  "countryCode": "CV",
+  "currencyCode": "",
+  "currencyName": "Cape Verdean escudo",
+  "currencySymbol": "Esc or $",
+  "telephoneCode": "238",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d39"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/kr.png",
+  "countryName": "Korea South",
+  "countryCode": "KR",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "82",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d3a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gh.png",
+  "countryName": "Ghana",
+  "countryCode": "GH",
+  "currencyCode": "",
+  "currencyName": "Ghana cedi",
+  "currencySymbol": "â‚µ",
+  "telephoneCode": "233",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d3b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gl.png",
+  "countryName": "Greenland",
+  "countryCode": "GL",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "299",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d3d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/jp.png",
+  "countryName": "Japan",
+  "countryCode": "JP",
+  "currencyCode": "",
+  "currencyName": "Japanese yen",
+  "currencySymbol": "Â¥",
+  "telephoneCode": "81",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d3e"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/dj.png",
+  "countryName": "Djibouti",
+  "countryCode": "DJ",
+  "currencyCode": "",
+  "currencyName": "Djiboutian franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "253",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d3f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/nr.png",
+  "countryName": "Nauru",
+  "countryCode": "NR",
+  "currencyCode": "",
+  "currencyName": "Australian dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "674",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d40"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/at.png",
+  "countryName": "Austria",
+  "countryCode": "AT",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "43",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d41"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gt.png",
+  "countryName": "Guatemala",
+  "countryCode": "GT",
+  "currencyCode": "",
+  "currencyName": "Guatemalan quetzal",
+  "currencySymbol": "Q",
+  "telephoneCode": "502",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d42"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pf.png",
+  "countryName": "French Polynesia",
+  "countryCode": "PF",
+  "currencyCode": "",
+  "currencyName": "CFP franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "689",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d43"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/eg.png",
+  "countryName": "Egypt",
+  "countryCode": "EG",
+  "currencyCode": "",
+  "currencyName": "Egyptian pound",
+  "currencySymbol": "Â£ or Ø¬.Ù…",
+  "telephoneCode": "20",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d44"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ht.png",
+  "countryName": "Haiti",
+  "countryCode": "HT",
+  "currencyCode": "",
+  "currencyName": "Haitian gourde",
+  "currencySymbol": "G",
+  "telephoneCode": "509",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d31"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bs.png",
+  "countryName": "Bahamas The",
+  "countryCode": "BS",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1242",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d46"
+  },
+  "countryFlag": "",
+  "countryName": "External Territories of Australia",
+  "countryCode": "XA",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "61",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d32"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mv.png",
+  "countryName": "Maldives",
+  "countryCode": "MV",
+  "currencyCode": "",
+  "currencyName": "Maldivian rufiyaa",
+  "currencySymbol": ".Þƒ",
+  "telephoneCode": "960",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d48"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/as.png",
+  "countryName": "American Samoa",
+  "countryCode": "AS",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1684",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d49"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/mm.png",
+  "countryName": "Myanmar",
+  "countryCode": "MM",
+  "currencyCode": "",
+  "currencyName": "Burmese kyat",
+  "currencySymbol": "Ks",
+  "telephoneCode": "95",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d4a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bd.png",
+  "countryName": "Bangladesh",
+  "countryCode": "BD",
+  "currencyCode": "",
+  "currencyName": "Bangladeshi taka",
+  "currencySymbol": "à§³",
+  "telephoneCode": "880",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d4b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/lu.png",
+  "countryName": "Luxembourg",
+  "countryCode": "LU",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "352",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d4c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ba.png",
+  "countryName": "Bosnia and Herzegovina",
+  "countryCode": "BA",
+  "currencyCode": "",
+  "currencyName": "Bosnia and Herzegovi",
+  "currencySymbol": "KM or ÐšÐœ",
+  "telephoneCode": "387",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d4d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sd.png",
+  "countryName": "Sudan",
+  "countryCode": "SD",
+  "currencyCode": "",
+  "currencyName": "Sudanese pound",
+  "currencySymbol": "Ø¬.Ø³.",
+  "telephoneCode": "249",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d4e"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/zw.png",
+  "countryName": "Zimbabwe",
+  "countryCode": "ZW",
+  "currencyCode": "",
+  "currencyName": "Botswana pula",
+  "currencySymbol": "P",
+  "telephoneCode": "263",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d4f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ch.png",
+  "countryName": "Switzerland",
+  "countryCode": "CH",
+  "currencyCode": "",
+  "currencyName": "Swiss franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "41",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d50"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/do.png",
+  "countryName": "Dominican Republic",
+  "countryCode": "DO",
+  "currencyCode": "",
+  "currencyName": "Dominican peso",
+  "currencySymbol": "$",
+  "telephoneCode": "1809",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d51"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/iq.png",
+  "countryName": "Iraq",
+  "countryCode": "IQ",
+  "currencyCode": "",
+  "currencyName": "Iraqi dinar",
+  "currencySymbol": "Ø¹.Ø¯",
+  "telephoneCode": "964",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d52"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ag.png",
+  "countryName": "Antigua And Barbuda",
+  "countryCode": "AG",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1268",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d53"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/se.png",
+  "countryName": "Sweden",
+  "countryCode": "SE",
+  "currencyCode": "",
+  "currencyName": "Swedish krona",
+  "currencySymbol": "kr",
+  "telephoneCode": "46",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d54"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ma.png",
+  "countryName": "Morocco",
+  "countryCode": "MA",
+  "currencyCode": "",
+  "currencyName": "Moroccan dirham",
+  "currencySymbol": "Ø¯.Ù….",
+  "telephoneCode": "212",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d55"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/gd.png",
+  "countryName": "Grenada",
+  "countryCode": "GD",
+  "currencyCode": "",
+  "currencyName": "East Caribbean dolla",
+  "currencySymbol": "$",
+  "telephoneCode": "1473",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d56"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/za.png",
+  "countryName": "South Africa",
+  "countryCode": "ZA",
+  "currencyCode": "",
+  "currencyName": "South African rand",
+  "currencySymbol": "R",
+  "telephoneCode": "27",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d57"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ie.png",
+  "countryName": "Ireland",
+  "countryCode": "IE",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "353",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d58"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/bv.png",
+  "countryName": "Bouvet Island",
+  "countryCode": "BV",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d59"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/nu.png",
+  "countryName": "Niue",
+  "countryCode": "NU",
+  "currencyCode": "",
+  "currencyName": "New Zealand dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "683",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d5a"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/tn.png",
+  "countryName": "Tunisia",
+  "countryCode": "TN",
+  "currencyCode": "",
+  "currencyName": "Tunisian dinar",
+  "currencySymbol": "Ø¯.Øª",
+  "telephoneCode": "216",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d5b"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/vi.png",
+  "countryName": "Virgin Islands (US)",
+  "countryCode": "VI",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "1340",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d5c"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/st.png",
+  "countryName": "Sao Tome and Principe",
+  "countryCode": "ST",
+  "currencyCode": "",
+  "currencyName": "SÃƒÂ£o TomÃƒÂ© and PrÃƒÂ­n",
+  "currencySymbol": "Db",
+  "telephoneCode": "239",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d5d"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/lv.png",
+  "countryName": "Latvia",
+  "countryCode": "LV",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "371",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d45"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sg.png",
+  "countryName": "Singapore",
+  "countryCode": "SG",
+  "currencyCode": "",
+  "currencyName": "Brunei dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "65",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d5f"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/ec.png",
+  "countryName": "Ecuador",
+  "countryCode": "EC",
+  "currencyCode": "",
+  "currencyName": "United States dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "593",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d47"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/kg.png",
+  "countryName": "Kyrgyzstan",
+  "countryCode": "KG",
+  "currencyCode": "",
+  "currencyName": "Kyrgyzstani som",
+  "currencySymbol": "Ð»Ð²",
+  "telephoneCode": "996",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d61"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sa.png",
+  "countryName": "Saudi Arabia",
+  "countryCode": "SA",
+  "currencyCode": "",
+  "currencyName": "Saudi riyal",
+  "currencySymbol": "Ø±.Ø³",
+  "telephoneCode": "966",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d62"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/co.png",
+  "countryName": "Colombia",
+  "countryCode": "CO",
+  "currencyCode": "",
+  "currencyName": "Colombian peso",
+  "currencySymbol": "$",
+  "telephoneCode": "57",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d63"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/us.png",
+  "countryName": "United States",
+  "countryCode": "US",
+  "currencyCode": "",
+  "currencyName": "United States dollar",
+  "currencySymbol": "$",
+  "telephoneCode": "1",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d64"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/si.png",
+  "countryName": "Slovenia",
+  "countryCode": "SI",
+  "currencyCode": "",
+  "currencyName": "Euro",
+  "currencySymbol": "â‚¬",
+  "telephoneCode": "386",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d65"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/sz.png",
+  "countryName": "Swaziland",
+  "countryCode": "SZ",
+  "currencyCode": "",
+  "currencyName": "Swazi lilangeni",
+  "currencySymbol": "L",
+  "telephoneCode": "268",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66596360ca28a3ac52827ac7"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66596360ca28a3ac52827ac9"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665963b6782394f396acc52a"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665963b6782394f396acc52c"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665963d18640e5a8af6a8ebb"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665963d18640e5a8af6a8ebd"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6659658e6fb7376cc705fe52"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6659658e6fb7376cc705fe54"
+  },
+  "countryFlag": "",
+  "countryName": "",
+  "countryCode": "",
+  "currencyCode": "",
+  "currencyName": "",
+  "currencySymbol": "",
+  "telephoneCode": "",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d5e"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/nc.png",
+  "countryName": "New Caledonia",
+  "countryCode": "NC",
+  "currencyCode": "",
+  "currencyName": "CFP franc",
+  "currencySymbol": "Fr",
+  "telephoneCode": "687",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664cacf9d0961f832fd51d60"
+  },
+  "countryFlag": "https://djjtx7216tuqq.cloudfront.net/uploads/pg.png",
+  "countryName": "Papua new Guinea",
+  "countryCode": "PG",
+  "currencyCode": "",
+  "currencyName": "Papua New Guinean ki",
+  "currencySymbol": "K",
+  "telephoneCode": "675",
+  "is_active": 1,
+  "is_deleted": 0,
+  "created_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-07T05:38:20.123Z"
+  },
+  "__v": 0
+}]

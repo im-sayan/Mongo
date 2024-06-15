@@ -1,29 +1,34 @@
-const jsdom = require('jsdom');
+const cheerio = require('cheerio');
+const request = require('request');
 
-async function scrapeSite(link) {
-    const { JSDOM } = jsdom;
+// URL to scrape
+const url = 'https://portfolio-4911e.web.app/';
 
-  const dom = await JSDOM.fromURL(link);
+// Send a GET request to the URL
+request(url, (error, response, html) => {
+  if (error) {
+    console.error(error);
+    return;
+  }
 
-  const { window } = dom;
+  // Load the HTML into Cheerio
+  const $ = cheerio.load(html);
 
-  const { document } = window;
+  // Extract the title of the page
+  const title = $('title').text();
+  console.log(`Title: ${title}`);
 
-//   await window.fetch(link);
-//   await window.document.readyState === 'complete';
-
-  const results = [];
-  document.querySelectorAll('table.RntSmf').forEach((table) => {
-    const image = table.querySelector('img').src;
-    const text = table.querySelector('span').textContent;
-    results.push({ image, text });
+  // Extract all the links on the page
+  const links = $('a[href]');
+  links.each((index, element) => {
+    const link = $(element).attr('href');
+    console.log(`Link ${index + 1}: ${link}`);
   });
 
-  return results;
-}
-
-scrapeSite('https://www.carandbike.com/new-cars/models').then((results) => {
-  console.log(results);
-}).catch((error) => {
-  console.error(error);
+  // Extract all the images on the page
+  const images = $('img[src]');
+  images.each((index, element) => {
+    const image = $(element).attr('src');
+    console.log(`Image ${index + 1}: ${image}`);
+  });
 });
