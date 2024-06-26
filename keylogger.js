@@ -1,14 +1,28 @@
-const keyboard = require('node-keyboard');
 const fs = require('fs');
+const keypress = require('keypress');
 
-const logFile = 'key_log.txt';
+// Create a write stream to store the keystrokes in a file
+const logStream = fs.createWriteStream('keystrokes.log', { flags: 'a' });
 
-keyboard.on('key', (key) => {
-  fs.appendFile(logFile, `Key pressed: ${key}\n`, (err) => {
-    if (err) {
-      console.error(err);
+// Initialize keypress
+keypress(process.stdin);
+
+// Listen for keypress events
+process.stdin.on('keypress', function (ch, key) {
+  if (key) {
+    // Log the key to the console (optional)
+    console.log('Keypress:', key.name);
+    
+    // Write the key to the log file followed by a newline
+    logStream.write(key.name + '\n');
+    
+    // Handle special keys like Enter/Return
+    if (key && key.ctrl && key.name === 'c') {
+      process.stdin.pause();
     }
-  });
+  }
 });
 
-keyboard.start();
+// Enable stdin to emit events
+process.stdin.setRawMode(true);
+process.stdin.resume();
